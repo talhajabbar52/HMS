@@ -16,5 +16,6 @@
     <string name="menu_home">Appointment</string>
     <string name="menu_gallery">Reports</string>
     <string name="menu_slideshow">History</string>
+    <string name="title_activity_admin_panel">AdminPanel</string>
 
 </resources>
